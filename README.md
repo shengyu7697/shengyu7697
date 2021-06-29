@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![ShengYu's github stats](https://github-readme-stats.vercel.app/api?username=shengyu7697&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengyu7697&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengyu7697&layout=compact&hide=html,css)
 
