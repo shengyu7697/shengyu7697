@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm ShengYu 👋
 
 <!--
 **shengyu7697/shengyu7697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![ShengYu's github stats](https://github-readme-stats.vercel.app/api?username=shengyu7697&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengyu7697&layout=compact&hide=html)
+
